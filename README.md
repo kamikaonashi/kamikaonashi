@@ -3,4 +3,4 @@
 this is me, trying to fix my stupid errors ^
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamikaonashi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamikaonashi&show_icons=true&theme=transparent)
